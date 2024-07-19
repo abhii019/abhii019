@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I'm a Student and Developer.<br>🌱 I’m currently working on  Frontend development and full stack java<br>😎Checkout my Projects.
+🎓I'm a Student and Developer.<br>🌱 I’m currently working on Mern stack <br>😎Checkout my Projects.
 
 
 ## 🌐 Socials:
