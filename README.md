@@ -16,14 +16,20 @@
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![React](https://img.shields.io/badge/React-%2300f.svg?style=for-the-badge&logo=react&logoColor=white&logoColor=%23F7DF1E)
-  ![Express Js](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=expressjs&logoColor=white) 
-   ![Node Js](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=nodejs&logoColor=%23F7DF1E)
-    ![Firebase](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=firebase&logoColor=white) 
+  ![Express Js](https://img.shields.io/badge/Expressjs-%231572B6.svg?style=for-the-badge&logo=express&logoColor=white) 
+   ![Node Js](https://img.shields.io/badge/Nodejs-%23323330.svg?style=for-the-badge&logo=node&logoColor=%23F7DF1E)
+    ![Firebase](https://img.shields.io/badge/Firebase-%23563D7C.svg?style=for-the-badge&logo=firebase&logoColor=white) 
+     ![My Sql](https://img.shields.io/badge/mysql-%23563D7C.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+      ![Mongo DB](https://img.shields.io/badge/mongodb-%23E34F26.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+       ![TypeScript](https://img.shields.io/badge/typescript-%23ED8B00.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+
+
 # 📊 GitHub Stats:
 <div align="center">
  
 ![](https://github-readme-stats.vercel.app/api?username=abhii019&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhii019&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhii019&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
