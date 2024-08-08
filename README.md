@@ -16,6 +16,9 @@
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![React](https://img.shields.io/badge/React-%2300f.svg?style=for-the-badge&logo=react&logoColor=white&logoColor=%23F7DF1E)
+  ![Express Js](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=expressjs&logoColor=white) 
+   ![Node Js](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=nodejs&logoColor=%23F7DF1E)
+    ![Firebase](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=firebase&logoColor=white) 
 # 📊 GitHub Stats:
 <div align="center">
  
