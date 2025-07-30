@@ -6,7 +6,7 @@
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhii__019) 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-yergude-878701243) 
  [![](https://visitcount.itsvg.in/api?id=abhii019&icon=0&color=0)](https://visitcount.itsvg.in)
- Checkout my Portfolio[ https://abhii019.github.io/Portfolio/](https://abhisheky-portfolio.lovable.app/)
+ Checkout my Portfolio (https://abhisheky-portfolio.lovable.app/)
 
 # 💻 Tech Stack:
 
